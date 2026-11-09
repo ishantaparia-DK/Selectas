@@ -1,0 +1,96 @@
+{
+  "templates": [
+    {
+      "id": "like",
+      "label": "You'll like it",
+      "prompt": "I think you'll like this song because",
+      "options": [
+        "the bassline is unreal.",
+        "it sounds like your playlist wrote itself.",
+        "the chorus lives rent free in my head.",
+        "it reminds me of you.",
+        "the drop is a religious experience.",
+        "you have great taste and this proves it.",
+        "the lyrics hit different at 2am.",
+        "it is exactly your kind of weird."
+      ]
+    },
+    {
+      "id": "forYou",
+      "label": "For you",
+      "prompt": "This one is for you because",
+      "options": [
+        "you needed a good day.",
+        "you always find the hidden gems.",
+        "I heard it and thought of you instantly.",
+        "you owe me a recommendation.",
+        "it matches your main character energy.",
+        "you would dance to this in the kitchen."
+      ]
+    },
+    {
+      "id": "playWhen",
+      "label": "Play it when",
+      "prompt": "Play this when",
+      "options": [
+        "you are driving with the windows down.",
+        "you need to lock in and focus.",
+        "it is raining and you have nowhere to be.",
+        "you are getting ready to go out.",
+        "you are cooking something ambitious.",
+        "you are walking home alone at night."
+      ]
+    },
+    {
+      "id": "warning",
+      "label": "Fair warning",
+      "prompt": "Fair warning:",
+      "options": [
+        "you will replay this six times.",
+        "this may cause spontaneous dancing.",
+        "the second verse is a plot twist.",
+        "you will hum this for three days.",
+        "it takes a minute to get going, trust it.",
+        "this one might make you feel things."
+      ]
+    }
+  ],
+  "moods": [
+    { "id": "hype", "label": "Hype", "emoji": "⚡" },
+    { "id": "chill", "label": "Chill", "emoji": "🧊" },
+    { "id": "dreamy", "label": "Dreamy", "emoji": "☁️" },
+    { "id": "moody", "label": "Moody", "emoji": "🌧️" },
+    { "id": "sunny", "label": "Sunny", "emoji": "🌞" },
+    { "id": "latenight", "label": "Late night", "emoji": "🌙" },
+    { "id": "heartbroken", "label": "Heartbroken", "emoji": "💔" },
+    { "id": "feral", "label": "Feral", "emoji": "🔥" }
+  ],
+  "bestFor": [
+    { "id": "roadtrip", "label": "Road trip", "emoji": "🚗" },
+    { "id": "running", "label": "Running", "emoji": "🏃" },
+    { "id": "cooking", "label": "Cooking", "emoji": "🍳" },
+    { "id": "getready", "label": "Getting ready", "emoji": "💄" },
+    { "id": "focus", "label": "Deep focus", "emoji": "🎯" },
+    { "id": "rainy", "label": "Rainy day", "emoji": "☔" },
+    { "id": "dancefloor", "label": "Dance floor", "emoji": "🪩" },
+    { "id": "cleaning", "label": "Cleaning", "emoji": "🧼" }
+  ],
+  "foundVia": [
+    { "id": "dj", "label": "A DJ set", "emoji": "🎛️" },
+    { "id": "movie", "label": "A movie", "emoji": "🎬" },
+    { "id": "friend", "label": "A friend", "emoji": "🫶" },
+    { "id": "algorithm", "label": "The algorithm", "emoji": "🤖" },
+    { "id": "crate", "label": "Crate digging", "emoji": "📦" },
+    { "id": "shazam", "label": "Shazam in a cafe", "emoji": "☕" }
+  ],
+  "reactions": [
+    { "emoji": "🔥", "label": "Fire" },
+    { "emoji": "😍", "label": "Obsessed" },
+    { "emoji": "🕺", "label": "Dancing" },
+    { "emoji": "🤯", "label": "Mind blown" },
+    { "emoji": "🤔", "label": "Hmm" },
+    { "emoji": "😬", "label": "Yikes" },
+    { "emoji": "🙉", "label": "Ears hurt" },
+    { "emoji": "🗑️", "label": "Bin it" }
+  ]
+}

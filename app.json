@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "Tastemaker",
+    "slug": "tastemaker",
+    "version": "0.1.0",
+    "scheme": "tastemaker",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.example.tastemaker"
+    },
+    "android": {
+      "package": "com.example.tastemaker"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "single"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-notifications"
+    ]
+  }
+}
