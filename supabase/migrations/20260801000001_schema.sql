@@ -1,4 +1,4 @@
--- Tastemaker schema.
+-- Selectas schema.
 -- Design rules:
 --   * Tables are read-only to clients (row level security). All writes go through the
 --     functions below, so the rules cannot be bypassed by a modified app.

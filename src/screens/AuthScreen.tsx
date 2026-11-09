@@ -31,7 +31,7 @@ export function AuthScreen() {
     <Screen tabBar={false}>
       <FadeSlide>
         <Txt style={{ fontSize: 64, lineHeight: 80 }}>🎶</Txt>
-        <Txt v="display">Tastemaker</Txt>
+        <Txt v="display">Selectas</Txt>
         <Txt v="body" style={{ marginTop: 4, marginBottom: 24 }}>
           One song a day. Send the one you know they will love.
         </Txt>

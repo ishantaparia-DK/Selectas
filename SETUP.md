@@ -1,6 +1,6 @@
 # Backend setup (about 15 minutes)
 
-Tastemaker uses [Supabase](https://supabase.com) (Postgres, sign-in and realtime) and Expo's push service.
+Selectas uses [Supabase](https://supabase.com) (Postgres, sign-in and realtime) and Expo's push service.
 Everything below uses free tiers.
 
 ## 1. Create the Supabase project

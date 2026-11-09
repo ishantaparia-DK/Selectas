@@ -1,4 +1,4 @@
-# Tastemaker
+# Selectas
 
 A music based social media competition with friends.
 
@@ -43,4 +43,4 @@ npx expo start    # press i for iOS simulator, a for Android, w for web, or scan
 3. Friend requests have no rate limit or block list yet.
 4. The app loads all of a user's deliveries at once. Add paging when volumes grow.
 5. App Store release needs an EAS build, an Apple push key and a privacy policy.
-6. Replace the placeholder bundle identifiers (`com.example.tastemaker` in `app.json`) with your own before an App Store release.
+6. Replace the placeholder bundle identifiers (`com.example.selectas` in `app.json`) with your own before an App Store release.

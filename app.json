@@ -1,17 +1,17 @@
 {
   "expo": {
-    "name": "Tastemaker",
-    "slug": "tastemaker",
+    "name": "Selectas",
+    "slug": "selectas",
     "version": "0.1.0",
-    "scheme": "tastemaker",
+    "scheme": "selectas",
     "orientation": "portrait",
     "userInterfaceStyle": "light",
     "ios": {
       "supportsTablet": false,
-      "bundleIdentifier": "com.example.tastemaker"
+      "bundleIdentifier": "com.example.selectas"
     },
     "android": {
-      "package": "com.example.tastemaker"
+      "package": "com.example.selectas"
     },
     "web": {
       "bundler": "metro",

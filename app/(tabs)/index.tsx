@@ -154,7 +154,7 @@ export default function InboxScreen() {
   return (
     <Screen>
       <FadeSlide>
-        <Txt v="label">Tastemaker</Txt>
+        <Txt v="label">Selectas</Txt>
         <Txt v="display" style={{ marginBottom: 4 }}>
           {unrated > 0 ? 'Fresh songs 🎶' : 'All caught up ✨'}
         </Txt>

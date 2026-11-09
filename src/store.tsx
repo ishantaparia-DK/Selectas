@@ -133,7 +133,7 @@ export function StoreProvider({ children }: { children: React.ReactNode }) {
       timer = setTimeout(refresh, 300);
     };
     const channel = supabase
-      .channel(`tastemaker-${meId}`)
+      .channel(`selectas-${meId}`)
       .on('postgres_changes', { event: '*', schema: 'public', table: 'deliveries' }, schedule)
       .on('postgres_changes', { event: '*', schema: 'public', table: 'friendships' }, schedule)
       .subscribe();

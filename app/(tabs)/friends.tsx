@@ -71,7 +71,7 @@ export default function FriendsScreen() {
 
   const invite = () =>
     Share.share({
-      message: `Swap one song a day with me on Tastemaker. My username is @${me.username}.`,
+      message: `Swap one song a day with me on Selectas. My username is @${me.username}.`,
     }).catch(() => {});
 
   return (

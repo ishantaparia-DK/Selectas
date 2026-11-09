@@ -12,7 +12,7 @@ export function SetupScreen() {
         Almost there
       </Txt>
       <Txt v="body" style={{ marginBottom: 16 }}>
-        Tastemaker needs a backend before it can run. Create a free Supabase project and add its keys to a file called
+        Selectas needs a backend before it can run. Create a free Supabase project and add its keys to a file called
         .env in the project folder.
       </Txt>
       <Card>
